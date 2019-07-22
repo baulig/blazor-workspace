@@ -1,0 +1,20 @@
+[submodule "Blazor"]
+	path = Blazor
+	branch = martins-new-playground
+	url = git@github.com:baulig/Blazor.git
+[submodule "Extensions"]
+	path = Extensions
+	url = git@github.com:baulig/Extensions.git
+	branch = martins-new-playground
+[submodule "EntityFrameworkCore"]
+	path = EntityFrameworkCore
+	url = git@github.com:baulig/EntityFrameworkCore.git
+	branch = martins-new-playground
+[submodule "AspNetCore-Tooling"]
+	path = AspNetCore-Tooling
+	url = git@github.com:baulig/AspNetCore-Tooling.git
+	branch = martins-new-playground
+[submodule "AspNetCore"]
+	path = AspNetCore
+	url = git@github.com:baulig/AspNetCore.git
+	branch = martins-new-playground
