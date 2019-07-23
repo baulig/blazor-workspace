@@ -18,3 +18,7 @@
 	path = AspNetCore
 	url = git@github.com:baulig/AspNetCore.git
 	branch = martins-new-playground
+[submodule "linker-optimizer"]
+	path = linker-optimizer
+	url = git@github.com:baulig/linker-optimizer.git
+	branch = work-sprint-156
